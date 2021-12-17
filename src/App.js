@@ -3,6 +3,8 @@ import styled from 'styled-components';
 import Navbar from './components/Navbar/Navbar';
 import FrontBanner from './components/FrontBanner/FrontBanner';
 import Plan from './components/Plan/Plan';
+import Testimonials from './components/Testimonials/Testimonials';
+import Footer from './components/Footer/Footer';
 
 const LandingPage = styled.div`
   margin: 5vh 5vw;
@@ -15,6 +17,8 @@ function App() {
       <Navbar/>
       <FrontBanner />
       <Plan />
+      <Testimonials />
+      <Footer />
     </LandingPage>
   );
 }
