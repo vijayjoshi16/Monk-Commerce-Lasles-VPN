@@ -1,3 +1,24 @@
+<h1 align="center">MonkCommerce LaslesVPN Assignment - Frontend</h1>
+
+## Deployed website Link: 
+https://monk-commerce-lasles-vpn.netlify.app/
+
+## Steps to set up the project
+
+- Clone this project: 
+`git clone https://github.com/vijayjoshi16/Monk-Commerce-Lasles-VPN.git`
+
+- Change the current working directory:
+`cd Monk-Commerce-Lasles-VPN`
+
+- Install all the requires packages
+`npm install`
+
+- Start the react app
+`npm start`
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
